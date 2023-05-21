@@ -1,3 +1,4 @@
+![logo](https://res.cloudinary.com/dl62wyon3/image/upload/v1684663743/Black_and_Red_Gradient_Professional_LinkedIn_Banner_1_hvledw.png)
 <h1 align="center">Hi 👋, I'm Nikhil Yadav</h1>
 <h3 align="center">A passionate MERN Stack Web and Blockchain developer from India</h3>
 
